@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is my personal github repository.
+
+- 🌱 I’m currently learning how it works
+
+
 <!--
 **nTn4010/nTn4010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
